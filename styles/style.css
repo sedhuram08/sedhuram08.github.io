@@ -12,6 +12,11 @@ body {
     overflow-x: hidden;
 }
 
+.GuviCertificates{
+    height: 50px;
+    width: 50px;
+}
+
 /* Header Styling */
 header {
     background: #333;
